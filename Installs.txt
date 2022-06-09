@@ -1,0 +1,17 @@
+Frontend:
+Install axios
+Install react-router-dom
+
+
+Backend:
+npm init -y
+Install express, cors, mongoose
+
+
+
+
+Rest:
+Put = update
+Post = create
+Delete = delete 
+Get = get all
